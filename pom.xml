@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.wilson</groupId>
-    <artifactId>java-api-study</artifactId>
+    <artifactId>on_duty</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <repositories>
